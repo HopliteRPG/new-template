@@ -5,7 +5,10 @@
     "deploy": "git subtree push --prefix dist origin gh-pages"
   },
   "devDependencies": {
+    "@eslint/js": "^9.24.0",
     "css-loader": "^7.1.2",
+    "eslint": "^9.24.0",
+    "globals": "^16.0.0",
     "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.3",
     "style-loader": "^4.0.0",
