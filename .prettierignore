@@ -1,0 +1,7 @@
+# Ignore artifacts:
+eslint.config.mjs
+package-lock.json
+package.json
+webpack.common.js
+webpack.dev.js
+webpack.prod.js

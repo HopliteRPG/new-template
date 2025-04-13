@@ -1,5 +1,5 @@
 import "./styles.css";
 
-alert("test")
+alert("test");
 
 let test = "test";
